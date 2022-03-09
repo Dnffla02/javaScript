@@ -4,7 +4,7 @@
 
 
 
-/*
+
 변수선언방법 1
   let user='John',age=25,message='Hello';
 변수선언방법2
@@ -16,15 +16,23 @@
   , age=25
   , message='Hello';
   
+var대신 let을 더 많이 씀(현)
+  
 변수를 두 번 선언하면 에러가 남
   let message = 'Hello';
-*/
 
+함수형 언어
 
+예약어로는 변수 사용 불가
 
+const a;
+a=1; 불가능
 
-
-
+요약
+  var, let, const로 변수 선언 가능
+    let: 모던한 변수 선언 키워드
+    var: 오래된 변수 키워드
+    const let: let과 비슷하지만 값을 경할 수 없음
 
 
 
