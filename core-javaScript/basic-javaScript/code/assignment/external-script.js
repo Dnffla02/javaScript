@@ -1,0 +1,19 @@
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <script src="alert.js">
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+
