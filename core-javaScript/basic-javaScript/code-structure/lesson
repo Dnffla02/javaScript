@@ -4,6 +4,20 @@
 
 
 문(statement)는 문법 구조(sy[ntax structure)와 명령어(command)를 의미
+세미콜론(semicolon)은 생략할 수 있지만, 넣어주지 않는 경우 버그가 발생할 수 있음
+단축키
+  Ctrl+/: 한줄짜리 주석을 사용할 수 있음
+  Ctrl+Shift+/: 여러 줄을 주석 처리할 수 있음
+  //
+  Mac에서는 Ctrl대신 Cmd, Shift대신 Option 사용
+중첩주석은 X
+
+
+
+
+
+
+
 
 
 
