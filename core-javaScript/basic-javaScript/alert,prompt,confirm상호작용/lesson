@@ -3,10 +3,16 @@
 
 
 
-
-
-
-
+alert("text"): OK를 누를때까지 창이 뜸
+prompt(title,[default]): 두 개의 인수를 받음
+  title: 사용자에게 보여줄 문자열
+  deafult: 초기값
+    []의 의미: 매개변수가 필수가 아닌 선택값이라는 뜻
+  기본값은 항상 넣어야함
+  안되는 유형
+    let test=prompt("Test");
+    let test=prompt("Test",'');
+confirm(variable): 확인/취소 창이 뜸
 
 
 
