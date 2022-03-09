@@ -6,7 +6,7 @@
 <!DOCTYPE HTML>
 <html>
   <body>
-    <script src="alert.js">
+    <script src="external-alert.js">
     </script>
   </body>
 </html>
