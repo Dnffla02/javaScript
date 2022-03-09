@@ -4,6 +4,22 @@
 
 
 
+/*
+변수선언방법 1
+  let user='John',age=25,message='Hello';
+변수선언방법2
+  let user='John'
+  let age=25
+  let message='Hello';
+변수선언방법 3
+  let user='John'
+  , age=25
+  , message='Hello';
+  
+변수를 두 번 선언하면 에러가 남
+  let message = 'Hello';
+*/
+
 
 
 
